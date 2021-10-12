@@ -2,7 +2,7 @@
 //  KeychainApp.swift
 //  Keychain
 //
-//  Created by 田中義男 on 2021/10/12.
+//  Created by kerubito on 2021/10/12.
 //
 
 import SwiftUI
